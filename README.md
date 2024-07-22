@@ -1,14 +1,14 @@
 - **HTML5**
-  ![HTML5](assets/images/html.png)
+  ![HTML5](assets/html.png)
 
 - **CSS3**
-  ![CSS3](assets/images/css.png)
+  ![CSS3](assets/css.png)
 
 - **JavaScript**
-  ![JavaScript](assets/images/javascript.png)
+  ![JavaScript](assets/javascript.png)
 
 - **React**
-  ![React](assets/images/react.png)
+  ![React](assets/react.png)
 
 ## Table of Contents
 
