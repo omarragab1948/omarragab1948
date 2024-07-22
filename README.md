@@ -1,18 +1,18 @@
-## Hi there 👋
+- **HTML5**
+  ![HTML5](assets/images/html.png)
 
-<!--
-**omarragab1948/omarragab1948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **CSS3**
+  ![CSS3](assets/images/css.png)
 
-Here are some ideas to get you started:
+- **JavaScript**
+  ![JavaScript](assets/images/javascript.png)
 
-- 🔭 I’m currently working on Alexapps
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m currently working on Alexapps
- I’m currently learning React Native
+- **React**
+  ![React](assets/images/react.png)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
